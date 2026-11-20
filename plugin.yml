@@ -1,0 +1,9 @@
+name: ArabicBot
+version: 1.0.0
+main: com.example.arabicbot.ArabicBot
+api-version: '26.3'
+description: بوت يتحكم فيه اللاعب من الشات بالعربي
+commands:
+  bot:
+    description: يسوي بوت أو يحذفه
+    usage: /bot [remove]
